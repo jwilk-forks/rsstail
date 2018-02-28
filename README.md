@@ -56,7 +56,7 @@ $ sudo make install
 
 For everything more or less related to rsstail, please feel free to contact me on mail@vanheusden.com.
 
-Consider using PGP. My PGP key-id is: 0x1f28d8ae
+Consider using PGP. My PGP key-id is: 0x30190e8c1f28d8ae
 
 
 ## Donations
